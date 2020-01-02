@@ -21,7 +21,6 @@ public class Main {
 		Server s =new MySerialServer();
 		s.open(port, ch);
 		
-
 //		StringReverser a= new StringReverser();
 //		String b=a.solve("ABC");
 //		System.out.println(b);

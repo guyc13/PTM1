@@ -1,12 +1,11 @@
 package boot;
 
-import server_side.ClientHandler;
-import server_side.MySerialServer;
-import server_side.MyTestClientHandler;
-import server_side.Server;
-
-
 import java.io.IOException;
+
+import server.ClientHandler;
+import server.MySerialServer;
+import server.MyTestClientHandler;
+import server.Server;
 
 public class Main {
 
